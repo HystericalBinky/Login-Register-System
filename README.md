@@ -29,7 +29,7 @@ These regulations only apply for MY version, any modified versions from other pe
     3. Under Create database, type in phplogin in the text box
     4. Select utf8_general_ci as the collation
     5. Click Create
-    6. Click the database on the left side panel (phplogin) and execute the following 2 SQL statement:
+    6. Click the database on the left side panel (phplogin) and execute the following 2 SQL statements:
        ```SQL
        CREATE TABLE IF NOT EXISTS `accounts` (
 	        `id` int(11) NOT NULL AUTO_INCREMENT,
