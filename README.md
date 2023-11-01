@@ -21,15 +21,15 @@ These regulations only apply for MY version, any modified versions from other pe
     * Select the path as your XAMPP htdocs folder.
     * Click clone.
 3. Open XAMPP and Run Services
-    1. Open XAMPP as Administrator
-    2. Run the Modules: Apache and MySQL
+    * Open XAMPP as Administrator
+    * Run the Modules: Apache and MySQL
 4. Create the Database
-    1. Go to: http://localhost/phpmyadmin/
-    2. Click the Databases tab at the top
-    3. Under Create database, type in phplogin in the text box
+    * Go to: http://localhost/phpmyadmin/
+    * Click the Databases tab at the top
+    * Under Create database, type in phplogin in the text box
     4. Select utf8_general_ci as the collation
-    5. Click Create
-    6. Click the database on the left side panel (phplogin) and execute the following 2 SQL statements:
+    * Click Create
+    * Click the database on the left side panel (phplogin) and execute the following 2 SQL statements:
        ```SQL
        CREATE TABLE IF NOT EXISTS `accounts` (
 	        `id` int(11) NOT NULL AUTO_INCREMENT,
