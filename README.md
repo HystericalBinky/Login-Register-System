@@ -2,7 +2,7 @@
 ## 📖Information
 This Repository is a [Login/Register System](https://en.wikipedia.org/wiki/Login) that can be used for a [User](https://en.wikipedia.org/wiki/User_(computing)) to make an account. Made with [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/HTML) and [PHP](https://en.wikipedia.org/wiki/PHP) in [Visual Studio Code](https://code.visualstudio.com/) using [XAMPP](https://sourceforge.net/projects/xampp/).
 
-Login/Register System is an easy-to-use, [open-source](https://en.wikipedia.org/wiki/Open_source) [Website](https://en.wikipedia.org/wiki/Website) allowing you to easily login to your account or register a new one. It requires minimal setup to be used, only requiring you to have [Visual Studio Code](https://code.visualstudio.com/), [XAMPP](https://sourceforge.net/projects/xampp/) and optionally [Git](https://git-scm.com/) to easily [clone this project]().
+Login/Register System is an easy-to-use, [open-source](https://en.wikipedia.org/wiki/Open_source) [Website](https://en.wikipedia.org/wiki/Website) allowing you to easily login to your account or register a new one. It requires minimal setup to be used, only requiring you to have [Visual Studio Code](https://code.visualstudio.com/), [XAMPP](https://sourceforge.net/projects/xampp/) and optionally [Git](https://git-scm.com/) to easily [clone this project](https://github.com/HystericalBinky/Login-Register-System/tree/main#source-codevisual-studio-code).
 
 ## 🛡️Security
 I have ran all the files through VirusTotal to ensure you that there are no viruses injected into this application. You can always run these files in the project through VirusTotal again if you wish.
