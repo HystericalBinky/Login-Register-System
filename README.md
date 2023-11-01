@@ -16,10 +16,10 @@ These regulations only apply for MY version, any modified versions from other pe
 ### 📝Source Code/Visual Studio Code
 1. Open Visual Studio Code
 2. Clone the GitHub Repository
-    1. Select Clone Git Repository
-    2. Paste the following link in the Repository name: https://github.com/HystericalBinky/Conversion-System
-    3. Select the path as your XAMPP htdocs folder.
-    4. Click clone.
+    * Select Clone Git Repository
+    * Paste the following link in the Repository name: https://github.com/HystericalBinky/Conversion-System
+    * Select the path as your XAMPP htdocs folder.
+    * Click clone.
 3. Open XAMPP and Run Services
     1. Open XAMPP as Administrator
     2. Run the Modules: Apache and MySQL
