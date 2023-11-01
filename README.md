@@ -27,7 +27,7 @@ These regulations only apply for MY version, any modified versions from other pe
     * Go to: http://localhost/phpmyadmin/
     * Click the Databases tab at the top
     * Under Create database, type in phplogin in the text box
-    4. Select utf8_general_ci as the collation
+    * Select utf8_general_ci as the collation
     * Click Create
     * Click the database on the left side panel (phplogin) and execute the following 2 SQL statements:
        ```SQL
